@@ -1,3 +1,4 @@
+```mermaid
 graph LR
     %% Actor Definition
     Professor(("교수"))

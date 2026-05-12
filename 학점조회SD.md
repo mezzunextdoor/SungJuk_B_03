@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     autonumber
     actor P_Actor as 교수
